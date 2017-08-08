@@ -1,5 +1,3 @@
-# b2-CopyrightPolice
-
 # Copyright Police
 This building block requires a license key. Please contact Nestorsupport (nestorsupport@rug.nl) for any questions.
 
